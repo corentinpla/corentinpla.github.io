@@ -1,7 +1,7 @@
 cv:
   # name: Corentin Pla
   # # label: ""
-  # # email: 
+  # # email:
   # location: Paris, France
   # # image: ""
   # # summary: ""
@@ -23,13 +23,13 @@ cv:
     Education:
       - institution: Institut Polytechnique de Paris (ENSAE Paris)
         location: Palaiseau, France
-        url: 
+        url:
         area: Statistics
         studyType: PhD
         start_date: 2025
         end_date: 2028
-        score: 
-        courses: 
+        score:
+        courses:
         highlights:
           - Research topics - Reinforcement Learning, Control.
           - Advisors - Vianney Perchet, Hugo Richard, Marc Abeille.
@@ -49,9 +49,9 @@ cv:
         position: Research Scientist
         location: Paris, France
         start_date: 2024
-        end_date: 
+        end_date:
         summary: Working on Reinforcement Learning applied to Real Time Bidding. Developing bidding algorithms that take into account exogenous information/high-dimensional contexts.
-        highlights: 
+        highlights:
 
       - company: Criteo
         position: Research Intern
@@ -133,7 +133,7 @@ cv:
 
     Skills:
       - name: Programming
-        level: 
+        level:
         icon: fa-solid fa-code
         keywords: "Python (advanced)"
 

@@ -135,11 +135,11 @@
   ],
   "publications": [
     {
-      "name":"Distribution-Aware Mean Estimation under User-level Local Differential Privacy", 
-      "publisher":"Corentin Pla and Hugo Richard and Maxime Vono",
-      "releaseDate":"12-10-2024",
-      "url":"https://arxiv.org/abs/2410.09506",
-      "summary":"We consider the problem of mean estimation under user-level local differential privacy, where n users are contributing through their local pool of data samples. Previous work assume that the number of data samples is the same across users. In contrast, we consider a more general and realistic scenario where each user u∈[n] owns mu data samples drawn from some generative distribution μ; mu being unknown to the statistician but drawn from a known distribution M over ℕ⋆. Based on a distribution-aware mean estimation algorithm, we establish an M-dependent upper bounds on the worst-case risk over μ for the task of mean estimation. We then derive a lower bound. The two bounds are asymptotically matching up to logarithmic factors and reduce to known bounds when mu=m for any user u."
+      "name": "Distribution-Aware Mean Estimation under User-level Local Differential Privacy",
+      "publisher": "Corentin Pla and Hugo Richard and Maxime Vono",
+      "releaseDate": "12-10-2024",
+      "url": "https://arxiv.org/abs/2410.09506",
+      "summary": "We consider the problem of mean estimation under user-level local differential privacy, where n users are contributing through their local pool of data samples. Previous work assume that the number of data samples is the same across users. In contrast, we consider a more general and realistic scenario where each user u∈[n] owns mu data samples drawn from some generative distribution μ; mu being unknown to the statistician but drawn from a known distribution M over ℕ⋆. Based on a distribution-aware mean estimation algorithm, we establish an M-dependent upper bounds on the worst-case risk over μ for the task of mean estimation. We then derive a lower bound. The two bounds are asymptotically matching up to logarithmic factors and reduce to known bounds when mu=m for any user u."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",

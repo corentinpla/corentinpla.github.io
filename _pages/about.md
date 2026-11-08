@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -20,10 +20,11 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+
 #latest_posts:
- # enabled: true
-  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  #limit: 3 # leave blank to include all the blog posts
+# enabled: true
+#scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I am a PhD student at IP Paris and Criteo AI Lab supervised by [Hugo Richard](https://hugorichard.github.io), [Marc Abeille](https://scholar.google.com/citations?user=0WsQ0uUAAAAJ&hl=fr) and [Vianney Perchet](https://vianney.ai). I work on Reinforcement Learning Theory, with a particular interest on contextual Markov Decision Processes. Prior to that, I did my studies in statistics at ENSAE Paris and Paris Saclay University.
