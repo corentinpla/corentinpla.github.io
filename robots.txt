@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://corentinpla.github.io/corentinpla//sitemap.xml
+Sitemap: https://corentinpla.github.io/sitemap.xml
