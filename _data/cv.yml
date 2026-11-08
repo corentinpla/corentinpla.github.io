@@ -1,10 +1,10 @@
 cv:
   name: Corentin Pla
-  label: 
+  # label: ""
   email: c.pla@criteo.com
   location: Paris, France
-  image: ""
-  summary: 
+  # image: ""
+  # summary: ""
 
   # social_networks:
   #   - network: X
@@ -17,7 +17,7 @@ cv:
   address:
     street: 32 rue blanche
     city: Paris
-    region: 
+    # region: ""
     postalCode: 75009
     countryCode: FR
 
