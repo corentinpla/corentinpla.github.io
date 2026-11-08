@@ -135,7 +135,7 @@ cv:
     Skills:
       - name: Programming
         level: Python (advanced) 
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-code
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
