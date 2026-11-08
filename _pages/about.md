@@ -26,8 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi! I am a PhD student at IP Paris and Criteo AI Lab supervised by [Hugo_Richard](https://hugorichard.github.io), [Marc_Abeille](https://scholar.google.com/citations?user=0WsQ0uUAAAAJ&hl=fr) and [Vianney_Perchet](https://vianney.ai). I work on Reinforcement Learning Theory, with a particular interest on contextual Markov Decision Processes. Prior to that, I did my studies in statistics at ENSAE Paris and Paris Saclay University.
 
+Hi! I am a PhD student at IP Paris and Criteo AI Lab supervised by [Hugo_Richard](https://hugorichard.github.io), [Marc_Abeille](https://scholar.google.com/citations?user=0WsQ0uUAAAAJ&hl=fr) and [Vianney_Perchet](https://vianney.ai). I work on Reinforcement Learning Theory, with a particular interest on contextual Markov Decision Processes. Prior to that, I did my studies in statistics at ENSAE Paris and Paris Saclay University.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
