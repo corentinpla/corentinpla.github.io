@@ -59,8 +59,8 @@ take into account exogenous information/high-dimensional contexts.
       - company: Criteo
         position: Research Intern
         location: Paris, France
-        start_date: 05-2024
-        end_date: 10-2024
+        start_date: 2024-05-01
+        end_date: 2024-10-31
         summary: Worked on Local Differential Privacy applied to advertising, led to a publication to AISTATS.
         highlights:
 
