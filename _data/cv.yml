@@ -17,7 +17,6 @@ cv:
   address:
     street: 32 rue blanche
     city: Paris
-    # region: ""
     postalCode: 75009
     countryCode: FR
 
