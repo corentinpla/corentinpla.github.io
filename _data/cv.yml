@@ -1,23 +1,23 @@
 cv:
-  name: Corentin Pla
-  # label: ""
-  email: c.pla@criteo.com
-  location: Paris, France
-  # image: ""
-  # summary: ""
+  # name: Corentin Pla
+  # # label: ""
+  # # email: 
+  # location: Paris, France
+  # # image: ""
+  # # summary: ""
 
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
-  address:
-    street: 32 rue blanche
-    city: Paris
-    postalCode: 75009
-    countryCode: FR
+  # # social_networks:
+  # #   - network: X
+  # #     username: AlbertEinstein
+  # #   - network: GitHub
+  # #     username: example
+  # #   - network: LinkedIn
+  # #     username: example
+  # address:
+  #   street: 32 rue blanche
+  #   city: Paris
+  #   postalCode: 75009
+  #   countryCode: FR
 
   sections:
     Education:
