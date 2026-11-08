@@ -13,7 +13,6 @@ cv:
   #     username: example
   #   - network: LinkedIn
   #     username: example
-
   address:
     street: 32 rue blanche
     city: Paris
@@ -107,7 +106,7 @@ cv:
     #     awarder: German Physical Society
     #     summary: Awarded for outstanding scientific achievement
 
-    Selected Papers:
+    Publications:
       - title: Distribution-aware mean estimation under user-level local differential privacy.
         authors:
           - Corentin Pla, Hugo Richard, and Maxime Vono
