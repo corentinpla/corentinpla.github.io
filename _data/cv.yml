@@ -33,8 +33,8 @@ cv:
         score: 
         courses: 
         highlights:
-          - Research topics: Reinforcement Learning, Control.
-          - Advisors: Vianney Perchet, Hugo Richard, Marc Abeille.
+          - Research topics - Reinforcement Learning, Control.
+          - Advisors - Vianney Perchet, Hugo Richard, Marc Abeille.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
@@ -47,24 +47,22 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Criteo
+        position: Research Scientist
+        location: Paris, France
+        start_date: 2024
+        end_date: 
+        summary: Working on Reinforcement Learning applied to Real Time Bidding. Developing bidding algorithms that
+take into account exogenous information/high-dimensional contexts.
+        highlights: 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Criteo
+        position: Research Intern
+        location: Paris, France
+        start_date: 05-2024
+        end_date: 10-2024
+        summary: Worked on Local Differential Privacy applied to advertising, led to a publication to AISTATS.
         highlights:
-          - Description 1.
-          - Description 2.
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director
